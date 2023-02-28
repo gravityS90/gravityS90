@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Analytics](https://ga-beacon.appspot.com/UA-00000000-1/github/Github)](https://github.com/gravityS90)
 
 <!--
