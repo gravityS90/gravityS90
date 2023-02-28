@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Analytics](https://ga-beacon.appspot.com/UA-00000000-1/Github)](https://github.com/gravityS90)
+[![Analytics](https://ga-beacon.appspot.com/UA-00000000-1/github/Github)](https://github.com/gravityS90)
 
 <!--
 **gravityS90/gravityS90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
